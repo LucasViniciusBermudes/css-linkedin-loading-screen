@@ -1,4 +1,4 @@
-# Tela de Carregamento Estilo LinkedIn
+# 🔄 Tela de Carregamento Estilo LinkedIn
 
 Este projeto é uma **tela de carregamento animada**, inspirada na interface do LinkedIn. Ele utiliza apenas **HTML e CSS**, sem dependências externas.
 
@@ -16,11 +16,14 @@ Este projeto é uma **tela de carregamento animada**, inspirada na interface do 
 
 ## 🚀 Como Usar
 
-1. Clone o repositório:
-
 ```bash
-git clone https://github.com/seu-usuario/tela-loading-linkedin.git
+# 1. Clone o repositório
+git clone https://github.com/LucasViniciusBermudes/tela-loading-linkedin.git
 
+# 2. Acesse a pasta do projeto
 cd tela-loading-linkedin
 
-start index.html
+# 3. Abra o arquivo HTML no navegador
+start index.html      # Windows
+open index.html       # macOS
+xdg-open index.html   # Linux
